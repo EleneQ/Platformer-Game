@@ -1,0 +1,15 @@
+TileVania Game Design:
+1.Player Experience:
+Under pressure.
+2.Core Mechanic:
+Run and jump.
+3.Game Theme:
+Escape. You're a prisoner. Clock is ticking.
+4.Core Game Loop:
+Get from A to B by navigating platforms and avoiding traps and enemies.
+
+MVP(minimal viable product) gameplay features:
+1.Character movement: player can run and jump.
+2.Traps / obstacles.
+3.Start and end points; mechanism to complete the level.
+4.Countdown timer: if reaches zerp, game over.
